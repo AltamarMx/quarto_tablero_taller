@@ -1,0 +1,8 @@
+#mi-imagen {
+    width: 200px; /* Ajusta el tamaño según lo necesites */
+    height: 300px;
+    border-radius: 50%; /* Esto hace la máscara circular/ovalada */
+    object-fit: cover; /* Asegura que la imagen se ajuste al contenedor */
+    overflow: hidden;
+}
+
